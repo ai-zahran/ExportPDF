@@ -1,0 +1,13 @@
+{
+  "name": "ExportPDF",
+  "version": "1.0.0",
+  "description": "Tableau extension for exporting sheets PDF.",
+  "main": "index.js",
+  "repository": "https://github.com/ai-zahran/ExportPDF.git",
+  "author": "Ahmed Zahran",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1"
+  }
+}
